@@ -1,3 +1,16 @@
 body {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxK7JhGqZ1NMZeBlfX2_gyLGwrfuFZmggzJ-WTf6Few&s=10);
 }
+
+.shelf {
+    background-color: gray;
+    margin-top: 68px;
+    width: 800px;
+    height: 45px;
+}
+
+.orange-pic {
+    height: 400px;
+    border: #000000 solid 4px;
+    margin-top: 8px;
+}
