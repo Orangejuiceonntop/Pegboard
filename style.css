@@ -35,3 +35,23 @@ body {
     justify-content: center;
 }
 
+.programs {
+    background-color: white;
+    width: 345px;
+    height: 150px;
+    padding: 10px;
+    margin-top: 55px;
+    border: #000000 solid 3px;
+}
+
+.programs h2 {
+    display: flex;
+    justify-content: center;
+    border-bottom: #000000 solid 1px;
+    height: 35px;
+}
+
+.programs p {
+    display: flex;
+    justify-content: center;
+}
