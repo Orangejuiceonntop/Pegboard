@@ -30,3 +30,8 @@ body {
     height: 35px;
 }
 
+.about-me p {
+    display: flex;
+    justify-content: center;
+}
+
