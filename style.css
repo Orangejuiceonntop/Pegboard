@@ -55,3 +55,27 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.projects {
+    position: absolute;
+    background-color: white;
+    padding: 10px;
+    left: 850px;
+    top: 10px;
+    width: 550px;
+    border: #000000 solid 3px;
+}
+
+.projects h1 {
+    display: flex;
+    justify-content: center;
+    height: 45px;
+    border-bottom: #000000 solid 1px;
+}
+
+.projects p {
+    display: flex;
+    justify-content: center;
+    color: gray;
+    height: 10px;
+}
