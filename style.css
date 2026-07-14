@@ -79,3 +79,7 @@ body {
     color: gray;
     height: 10px;
 }
+
+#albums {
+    cursor: pointer;
+}
