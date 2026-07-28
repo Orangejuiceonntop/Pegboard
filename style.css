@@ -15,12 +15,20 @@ body {
     margin-top: 12px;
 }
 
+.orange-pic:hover {
+    border: rgb(132, 155, 222) solid 5px;
+}
+
 .about-me {
     background-color: white;
     width: 345px;
     height: 150px;
     padding: 10px;
     border: #000000 solid 3px;
+}
+
+.about-me:hover {
+    border: rgb(132, 155, 222) solid 3px;
 }
 
 .about-me h2{
@@ -42,6 +50,10 @@ body {
     padding: 10px;
     margin-top: 55px;
     border: #000000 solid 3px;
+}
+
+.programs:hover {
+    border: rgb(132, 155, 222) solid 3px;
 }
 
 .programs h2 {
@@ -66,6 +78,10 @@ body {
     border: #000000 solid 3px;
 }
 
+.projects:hover {
+    border: rgb(132, 155, 222) solid 4px;
+}
+
 .projects h1 {
     display: flex;
     justify-content: center;
@@ -80,6 +96,10 @@ body {
     height: 10px;
 }
 
-#albums {
+.albums {
     cursor: pointer;
+}
+
+.albums:hover {
+    border: #000000 solid 3px;
 }
