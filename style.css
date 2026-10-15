@@ -16,7 +16,7 @@ body {
 }
 
 .orange-pic:hover {
-    border: rgb(132, 155, 222) solid 5px;
+    border: rgb(53, 60, 76) solid 5px;
 }
 
 .about-me {
@@ -25,10 +25,11 @@ body {
     height: 150px;
     padding: 10px;
     border: #000000 solid 3px;
+    transition: all .1s;
 }
 
 .about-me:hover {
-    border: rgb(132, 155, 222) solid 3px;
+    transform: scale(1.02);
 }
 
 .about-me h2{
@@ -50,10 +51,11 @@ body {
     padding: 10px;
     margin-top: 55px;
     border: #000000 solid 3px;
+    transition: all .1s;
 }
 
 .programs:hover {
-    border: rgb(132, 155, 222) solid 3px;
+    transform: scale(1.02);
 }
 
 .programs h2 {
@@ -76,10 +78,11 @@ body {
     top: 10px;
     width: 550px;
     border: #000000 solid 3px;
+    transition: all .1s;
 }
 
 .projects:hover {
-    border: rgb(132, 155, 222) solid 4px;
+    transform: scale(1.02);
 }
 
 .projects h1 {
@@ -98,8 +101,18 @@ body {
 
 .albums {
     cursor: pointer;
+    transition: all .1s;
 }
 
 .albums:hover {
-    border: #000000 solid 3px;
+    border: rgb(53, 60, 76) solid 3px;
+    transform: scale(1.02);
+}
+
+.keychain {
+    transition: all .1s;
+}
+
+.keychain:hover {
+    transform: scale(1.02);
 }
