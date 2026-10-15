@@ -2,7 +2,9 @@
 
 My personal site in the style of a pegboard!
 
-![alt text](Pegboard pic.png)
+https://orangejuiceonntop.github.io/Pegboard/
+
+![alt text](image.png)
 
 ## Sections
 
