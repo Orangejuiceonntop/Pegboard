@@ -2,7 +2,7 @@
 
 My personal site in the style of a pegboard!
 
-![alt text](image.png)
+![alt text](Pegboard pic.png)
 
 ## Sections
 
